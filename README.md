@@ -11,3 +11,5 @@ Source files for visualisations.
 
 [Degree Communities](https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/3ca93140172e5b608d7f7c2732451dbebba5b419/fringe_communities.html)
 
+[LAC Map](https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/0ef99cea32604fc5db586c1b2ea0335d2a680399/uk_lac_map.html)
+
