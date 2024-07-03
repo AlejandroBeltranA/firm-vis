@@ -13,3 +13,5 @@ Source files for visualisations.
 
 [LAC Map](https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/0ef99cea32604fc5db586c1b2ea0335d2a680399/uk_lac_map.html)
 
+
+[LAC time](https://rawcdn.githack.com/AlejandroBeltranA/firm-vis/35f40270007e758bee3d8e3babfc730fbaa1b008/lac_time.html)
